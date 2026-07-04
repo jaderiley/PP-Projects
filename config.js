@@ -209,6 +209,10 @@ const CONFIG = {
     // ─── CONTACT ───────────────────────────────────────────
     contactTitle: "Tell us about your pool.",
     contactLead:  "Let us know the size, what is going on, and what service you are after. We will reply quickly.",
-    contactPlaceholder: "e.g. 8x4m pool, needs weekly cleaning and chemicals, pump making noise"
+    contactPlaceholder: "e.g. 8x4m pool, needs weekly cleaning and chemicals, pump making noise",
+
+    // ─── CLOSING CTA BAND ──────────────────────────────────
+    ctaBannerTitle: "Pool turning green <em>before the weekend?</em>",
+    ctaBannerSub:   "One message and we'll get it swim-ready."
   }
 };
